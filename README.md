@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gmRFsg7-)
 # House Price Prediction
 ## Team
 <table>
@@ -6,25 +5,21 @@
     <td> <div align=center> 👑 </div> </td>
     <td> <div align=center> 🙍 </div> </td>
     <td> <div align=center> 🙍 </div> </td>
-    <td> <div align=center> 🙍‍♂ </div> </td>
   </tr>
   <tr>
     <td> <div align=center> <b>이진성</b> </div> </td>
     <td> <div align=center> <b>고아연</b> </div> </td>
     <td> <div align=center> <b>윤소정</b> </div> </td>
-    <td> <div align=center> <b>김대섭</b> </div> </td>
   </tr>
   <tr>
-    <td> <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/173c3970-a60c-49de-8b86-593894732cfd" /> </td>
-    <td> <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/3e52d169-0141-4dfb-b36b-004f87f01905" /> </td>
-    <td> <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/9e7c51c7-d3c8-4512-a3b2-0c35905e2256" /> </td>
-    <td> <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e3e981fc-f821-4ef9-a30b-cd4b5c350a26" /> </td>
+    <td> <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/182fca00-1db5-461e-9b62-8a886c4ea4e2" /> </td>
+    <td> <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/74bdbcd6-de4d-4782-915c-18a97a08a125" /> </td>
+    <td> <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/fe03de96-146b-472a-8019-af23be1e615c" /> </td>
   </tr>
   <tr>
     <td> <div align=center> <a href="https://github.com/wlstjd6524"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
     <td> <div align=center> <a href="https://github.com/ayoun88"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
     <td> <div align=center> <a href="https://github.com/Lucia128"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
-    <td> <div align=center> <a href="https://github.com/"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
     </tr>
 </table>
 
@@ -38,7 +33,7 @@
 
 ### Evaluation
 - 평가지표로는 RMSE 를 활용
-<img width="246" height="101" alt="Image" src="https://github.com/user-attachments/assets/b05b3732-f668-460a-ae12-d6b55627605b" />
+<img width="246" height="101" alt="Image" src="https://github.com/user-attachments/assets/cdceb068-ced2-4f84-ad6f-e15b38d1a72a" />
 
 ## 1. Competiton Info
 
@@ -59,7 +54,7 @@
 
 ### Directory
 
-<img width="498" height="370" alt="Image" src="https://github.com/user-attachments/assets/72a4d5aa-4cd7-4e96-966d-58be93bbd2a6" />
+<img width="498" height="370" alt="Image" src="https://github.com/user-attachments/assets/067f7da3-55b8-4365-bbd7-cd8ec73d68e3" />
 
 ## 3. Data descrption
 
@@ -68,7 +63,7 @@
 주요 데이터는 .csv 형태로 제공되며, 목표는 서울시 아파트의 각 시점의 거래금액을 예측하는 것입니다. <br>
 학습 데이터는 (111822, 52) 의 사이즈를 가지고 있으며, 예측해야 할 값(Target) 을 포함한 여러가지 아파트에 대한 정보가 담긴 변수들이 제공됩니다. <br>
 
-<img width="1498" height="201" alt="Image" src="https://github.com/user-attachments/assets/e80b2573-1cd4-4219-8654-affea89c05e4" /> <br>
+<img width="1498" height="201" alt="Image" src="https://github.comhttps://2minmin2.tistory.com/74/user-attachments/assets/e80b2573-1cd4-4219-8654-affea89c05e4" /> <br>
 
 학습 데이터의 기간은 200701 ~ 202306 입니다. <br>
 각 변수들은 아래와 같은 결측치 비율을 가지고 있습니다. <br> 
